@@ -9,7 +9,7 @@ int main() {
   cout << 2 * 5 << "\n";
   // Mul operation with new line.
   cout << "Hello World!" << endl;
-  // Simple statment with new line.
+  // Simple statement with new line.
   cout << "I am learning C++" << "\n";
-  // Simple statment with new line.
+  // Simple statement with new line.
 }
